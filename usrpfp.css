@@ -31,6 +31,10 @@ img[src*='518831519255756832']:hover {
     content: url('https://cdn.discordapp.com/attachments/764090120302231572/798345222848905226/giphy.gif');
 }
 
+.wrapper-3t9DeA img[src*='518831519255756832'] {
+    content: url('https://cdn.discordapp.com/attachments/764090120302231572/798345222848905226/giphy.gif') !important;
+}
+
 img[src*='518831519255756832'] ~ .speaking-B2MXPi {
     content: url('https://cdn.discordapp.com/attachments/764090120302231572/798345222848905226/giphy.gif');
     -webkit-border-radius: 50%;

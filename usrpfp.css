@@ -7,7 +7,7 @@ img[src*='359174224809689089']:hover{
     content: url('https://cdn.discordapp.com/attachments/359482171452424192/797920223352979467/MOSHED-2020-10-23-18-25-16.gif');
 }
 
-div.avatarWrapperNormal-3wFMbf > div > foreignObject > img::after {
+.wrapper-3t9DeA img[src*='359174224809689089'] {
     content: url('https://cdn.discordapp.com/attachments/359482171452424192/797920223352979467/MOSHED-2020-10-23-18-25-16.gif');
 }
 

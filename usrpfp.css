@@ -1,18 +1,18 @@
 /*359174224809689089*/
 img[src*='359174224809689089'] {
-    content: url('https://cdn.discordapp.com/avatars/359174224809689089/4612e3535b6762b21fa0f9617776791f.webp');
+    content: url('https://cdn.discordapp.com/attachments/359482171452424192/798785884551381032/aeba789f-d087-455a-c584-df124fae5a14.png');
 }
 
 img[src*='359174224809689089']:hover{
-    content: url('https://cdn.discordapp.com/attachments/359482171452424192/797920223352979467/MOSHED-2020-10-23-18-25-16.gif');
+    content: url('https://i.ibb.co/XtbpJN8/ezgif-com-video-to-gif.gif');
 }
 
 .wrapper-3t9DeA img[src*='359174224809689089'] {
-    content: url('https://cdn.discordapp.com/attachments/359482171452424192/797920223352979467/MOSHED-2020-10-23-18-25-16.gif') !important;
+    content: url('https://i.ibb.co/XtbpJN8/ezgif-com-video-to-gif.gif') !important;
 }
 
 img[src*='359174224809689089'] ~ .speaking-B2MXPi {
-    content: url('https://cdn.discordapp.com/attachments/359482171452424192/797920223352979467/MOSHED-2020-10-23-18-25-16.gif');
+    content: url('https://i.ibb.co/XtbpJN8/ezgif-com-video-to-gif.gif');
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;

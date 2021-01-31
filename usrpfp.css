@@ -1,9 +1,4 @@
 /*359174224809689089*/
-/*
-img[src*='359174224809689089'] {
-    content: url('https://cdn.discordapp.com/attachments/359482171452424192/798787855480651788/aeba789f-d087-455a-c584-df124fae5a14.png');
-}*/
-
 img[src*='359174224809689089']:hover{
     content: url('https://i.ibb.co/XtbpJN8/ezgif-com-video-to-gif.gif');
 }
@@ -23,7 +18,7 @@ img[src*='359174224809689089'] ~ .speaking-B2MXPi {
     border: 3px solid #43b581;
 }
 
-
+/*688207744326696960*/
 img[src*='688207744326696960']:hover{
     content: url('https://media1.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif');
 }
@@ -42,8 +37,6 @@ img[src*='688207744326696960'] ~ .speaking-B2MXPi {
     height: 74px;
     border: 3px solid #43b581;
 }
-
-
 
 /*518831519255756832*/
 img[src*='518831519255756832'] {

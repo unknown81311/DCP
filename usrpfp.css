@@ -20,15 +20,15 @@ img[src*='359174224809689089'] ~ .speaking-B2MXPi {
 
 /*688207744326696960*/
 img[src*='688207744326696960']:hover{
-    content: url('https://media1.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif');
+    content: url('https://cdn.discordapp.com/attachments/805292353278443542/805325854414602291/ezgif.com-crop.gif');
 }
 
 .wrapper-3t9DeA img[src*='688207744326696960'] {
-    content: url('https://media1.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.giff') !important;
+    content: url('https://cdn.discordapp.com/attachments/805292353278443542/805325854414602291/ezgif.com-crop.gif') !important;
 }
 
 img[src*='688207744326696960'] ~ .speaking-B2MXPi {
-    content: url('https://media1.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif');
+    content: url('https://cdn.discordapp.com/attachments/805292353278443542/805325854414602291/ezgif.com-crop.gif');
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;

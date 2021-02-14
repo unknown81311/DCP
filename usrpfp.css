@@ -27,11 +27,11 @@ img[src*='577266528823803961']:hover{
     content: url('https://cdn.discordapp.com/attachments/767945253533384734/807900177008558080/ezgif.com-crop.gif') !important;
 }
 
-div[user_by_bdfdb*='310075608908562433'],div[href*='310075608908562433']{
+/*div[user_by_bdfdb*='310075608908562433'],div[href*='310075608908562433']{
     display:none;
     width:0;
     height:0;
-}
+}*/
 
 img[src*='577266528823803961'] ~ .speaking-B2MXPi {
     content: url('https://cdn.discordapp.com/attachments/767945253533384734/807900177008558080/ezgif.com-crop.gif');

@@ -27,7 +27,7 @@ img[src*='577266528823803961']:hover{
     content: url('https://cdn.discordapp.com/attachments/767945253533384734/807900177008558080/ezgif.com-crop.gif') !important;
 }
 
-div[user_by_bdfdb*='688207744326696960'],div[href*='688207744326696960']{
+div[user_by_bdfdb*='577266528823803961'],div[href*='577266528823803961']{
     display:none;
     width:0;
     height:0;

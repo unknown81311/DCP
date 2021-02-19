@@ -27,16 +27,6 @@ img[src*='577266528823803961']:hover{
     content: url('https://cdn.discordapp.com/attachments/767945253533384734/807900177008558080/ezgif.com-crop.gif') !important;
 }
 
-div[user_by_bdfdb*='577266528823803961'],div[href*='577266528823803961']{
-    display:none;
-    width:0;
-    height:0;
-}
-
-div.avatarWrapper-2yR4wp.da-avatarWrapper > div > svg > foreignObject > img[src=*"688207744326696960"]{
-    content: url('https://shrekis.life/CK6SSA') !important;
-}
-
 img[src*='577266528823803961'] ~ .speaking-B2MXPi {
     content: url('https://cdn.discordapp.com/attachments/767945253533384734/807900177008558080/ezgif.com-crop.gif');
     -webkit-border-radius: 50%;
